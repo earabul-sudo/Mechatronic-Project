@@ -1,0 +1,29 @@
+updown.o: G:/rtw/c/src/ext_mode/common/updown.c \
+ D:/testing/commtest_ert_rtw/rtwtypes.h G:/simulink/include/rtw_extmode.h \
+ G:/simulink/include/sysran_types.h \
+ G:/rtw/c/src/ext_mode/common/ext_types.h \
+ G:/rtw/c/src/ext_mode/common/ext_share.h \
+ G:/rtw/c/src/ext_mode/common/ext_svr.h \
+ G:/rtw/c/src/ext_mode/common/ext_work.h \
+ G:/rtw/c/src/ext_mode/common/updown_util.h G:/rtw/c/src/dt_info.h \
+ G:/rtw/c/src/ext_mode/common/upsup_public.h
+
+D:/testing/commtest_ert_rtw/rtwtypes.h:
+
+G:/simulink/include/rtw_extmode.h:
+
+G:/simulink/include/sysran_types.h:
+
+G:/rtw/c/src/ext_mode/common/ext_types.h:
+
+G:/rtw/c/src/ext_mode/common/ext_share.h:
+
+G:/rtw/c/src/ext_mode/common/ext_svr.h:
+
+G:/rtw/c/src/ext_mode/common/ext_work.h:
+
+G:/rtw/c/src/ext_mode/common/updown_util.h:
+
+G:/rtw/c/src/dt_info.h:
+
+G:/rtw/c/src/ext_mode/common/upsup_public.h:

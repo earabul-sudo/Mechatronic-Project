@@ -1,0 +1,39 @@
+ext_svr_daemon.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/toolbox/target/shared/externalmode_daemon/src/ext_svr_daemon.c \
+ D:/testing/commtest_ert_rtw/rtwtypes.h \
+ D:/testing/commtest_ert_rtw/multiword_types.h \
+ D:/testing/commtest_ert_rtw/rtwtypes.h G:/simulink/include/rtw_extmode.h \
+ G:/rtw/c/src/ext_mode/common/ext_types.h \
+ G:/rtw/c/src/ext_mode/common/ext_share.h \
+ G:/rtw/c/src/ext_mode/common/ext_test.h \
+ G:/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ G:/rtw/c/src/ext_mode/common/updown.h \
+ G:/rtw/c/src/ext_mode/common/upsup_public.h \
+ G:/rtw/c/src/ext_mode/common/updown_util.h G:/rtw/c/src/dt_info.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020b/toolbox/target/shared/EXTERN~1/include/daemon_checksum.h
+
+D:/testing/commtest_ert_rtw/rtwtypes.h:
+
+D:/testing/commtest_ert_rtw/multiword_types.h:
+
+D:/testing/commtest_ert_rtw/rtwtypes.h:
+
+G:/simulink/include/rtw_extmode.h:
+
+G:/rtw/c/src/ext_mode/common/ext_types.h:
+
+G:/rtw/c/src/ext_mode/common/ext_share.h:
+
+G:/rtw/c/src/ext_mode/common/ext_test.h:
+
+G:/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+G:/rtw/c/src/ext_mode/common/updown.h:
+
+G:/rtw/c/src/ext_mode/common/upsup_public.h:
+
+G:/rtw/c/src/ext_mode/common/updown_util.h:
+
+G:/rtw/c/src/dt_info.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020b/toolbox/target/shared/EXTERN~1/include/daemon_checksum.h:

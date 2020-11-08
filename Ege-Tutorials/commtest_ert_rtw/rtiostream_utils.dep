@@ -1,0 +1,11 @@
+rtiostream_utils.o: \
+ G:/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ G:/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ D:/testing/commtest_ert_rtw/rtwtypes.h \
+ G:/toolbox/coder/rtiostream/src/rtiostream.h
+
+G:/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+D:/testing/commtest_ert_rtw/rtwtypes.h:
+
+G:/toolbox/coder/rtiostream/src/rtiostream.h:

@@ -1,0 +1,10 @@
+rtGetNaN.o: D:/testing/fsmtest_ert_rtw/rtGetNaN.c \
+ D:/testing/fsmtest_ert_rtw/rtGetNaN.h \
+ D:/testing/fsmtest_ert_rtw/rtwtypes.h \
+ D:/testing/fsmtest_ert_rtw/rt_nonfinite.h
+
+D:/testing/fsmtest_ert_rtw/rtGetNaN.h:
+
+D:/testing/fsmtest_ert_rtw/rtwtypes.h:
+
+D:/testing/fsmtest_ert_rtw/rt_nonfinite.h:
